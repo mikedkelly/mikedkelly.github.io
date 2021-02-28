@@ -9,7 +9,7 @@ order: 2
   <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="https://github.com/mikedkelly/datasciencecoursera" target="new" class="image fit"><img src="{{ 'assets/images/bc.png' | relative_url }}" 	alt="Breaset Cancer Project" /></a>
+        <a href="https://github.com/mikedkelly/breast-cancer-classification" target="new" class="image fit"><img src="{{ 'assets/images/bc.png' | relative_url }}" 	alt="Breaset Cancer Project" /></a>
         <header>
           <h3>Breast Cancer Classification</h3>
         </header>
