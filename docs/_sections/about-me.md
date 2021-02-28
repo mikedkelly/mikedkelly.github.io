@@ -12,7 +12,7 @@ div.mike {text-align: left;
 </style>
 <head>
 
-<img src="assets/images/pic08.jpg" alt="Mike Kelly" />
+<div class="image fit"><img src="assets/images/pic08.jpg" alt="Mike Kelly" />
 
 <p><div class="mike">
 I've run the spectrum of the product implementation process throughout my career, but have found that my passion and calling is in leading others in the use of technology. Today that means predicting healthcare outcomes from terabyte datasets. I'm looking forward to seeing what tomorrow brings.</div></p>
