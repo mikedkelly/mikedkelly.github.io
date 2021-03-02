@@ -32,7 +32,7 @@ Created and managed five-year road-map for big data analytics deployment platfor
 <p>
 <div class="mike">
 <b>Business Analyst: Dec 2014 – May 2016</b><br>
-Designed, built, and implemented Medicare claims editing software features to eliminate significant 3rd party licensing costs. Lead conversion of development teams to Scrum and Kanban.</div></p>
+Designed, built, and implemented Medicare claims editing software to eliminate significant 3rd party licensing costs. Led conversion of development teams to Scrum and Kanban.</div></p>
 
 <p>
 <h1 align="left">Remedy Informatics</h1>
@@ -44,7 +44,7 @@ Business owner for international ontology data warehouse. Acted as liaison betwe
 <h1 align="left">DevonWay</h1>
 <div class="mike">
 <b>Director of Tranining: Mar. 2009 – Mar 2014</b><br>
-Strategized, planed, and delivered all aspects of training and change management to customers and company. Responsible for running a profitable training and change management division. Developed, managed, and delivered $10K-$300K training projects.</div></p>
+Strategized, planned, and delivered all aspects of training and change management to customers and company. Responsible for running a profitable training and change management division. Developed, managed, and delivered $10K-$300K training projects.</div></p>
 
 <p>
 <h1 align="left">Prosper</h1>
@@ -57,4 +57,4 @@ Responsible for vision and execution of meeting company business objectives thro
 <h1 align="left">TenFold</h1>
 <div class="mike">
 <b>Director of Training: Nov 1999 – Jul 2006</b><br>
-Strategized, planed, and delivered all aspects of training and change management to customers and company. Responsible for running a profitable training and change management division. Developed, managed, and delivered enterprise applications development curriculum.</div></p>
+Strategized, planned, and delivered all aspects of training and change management to customers and company. Responsible for running a profitable training and change management division. Developed, managed, and delivered enterprise applications development curriculum.</div></p>
